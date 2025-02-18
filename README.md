@@ -1,4 +1,4 @@
-👋 Hi, I’m @Sinchana774
+👋 Hello, I'm @Sinchana774, currently in my third year of engineering, studying Information Science.
 👀 I’m interested in software development, data science and full-stack development.
 🌱 I’m passionate about technology and always eager to stay updated on its latest developments.
 My curiosity drives me to constantly learn, whether it's exploring new tools, mastering emerging concepts, or understanding how tech impacts the world around us.
